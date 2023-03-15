@@ -1,0 +1,28 @@
+/*
+
+ */
+package eva2_6_colisiones_constructor.yess;
+
+
+public class Mamífero extends Animal{
+ 
+  public Mamífero() {
+     System.out.println("Soy un mamifero");
+ }
+
+  public  void Parir(){
+      System.out.println("No nazco de un huevo.");
+ }
+  public void  Pelaje(){
+     System.out.println("Tengo pelajeo.");    
+    }
+      
+    
+    
+    
+    
+    
+    
+    
+    
+}
